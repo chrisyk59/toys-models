@@ -48,5 +48,3 @@ Les **KPIs** ainsi obtenus ont été représentés sous la forme de **Dataviz** 
 ![hr](https://github.com/user-attachments/assets/f82900b5-f141-4a1b-a62a-4f6bcb687676)
 
 
-## ✨ Présentation au format PDF :
-[présentation_toys_and_models.pdf](https://github.com/Sopanha2020/Projet-1-AZAS-SQL-BI-Toys-and-Models/blob/main/Presentation/Toys_and_Models%20Presentation.pdf)

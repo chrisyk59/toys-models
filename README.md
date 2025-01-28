@@ -17,7 +17,7 @@ Nous devions extraire et traiter des informations pertinentes à partir d'une ba
     Je souhaite un point sur les commandes impayés
 ### LOGISTICS:
     Je souhaite connaître le stock des 5 meilleures ventes de mes produits toutes catégories confondues.
-### HR:
+### RH:
     Je souhaite connaitre les 2 meilleurs vendeurs par CA, par mois
 
 ## 🧰 Outils Principaux : 
@@ -39,7 +39,7 @@ Les **KPIs** ainsi obtenus ont été représentés sous la forme de **Dataviz** 
 
 ![sales](https://raw.githubusercontent.com/chrisyk59/toys-models/main/Capture%20d%E2%80%99e%CC%81cran%202025-01-28%20a%CC%80%2017.18.12.png)
 
-![fin1](https://github.com/user-attachments/assets/7a11fa42-e6bd-4baf-a0e4-e1d4bac99da0)
+![fin](https://raw.githubusercontent.com/chrisyk59/toys-models/main/Capture%20d%E2%80%99e%CC%81cran%202025-01-28%20a%CC%80%2017.18.19.png)
 
 ![fin2](https://github.com/user-attachments/assets/665d9d88-edd0-4860-a6cc-02539d395dc2)
 

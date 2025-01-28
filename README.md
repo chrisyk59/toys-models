@@ -41,9 +41,9 @@ Les **KPIs** ainsi obtenus ont été représentés sous la forme de **Dataviz** 
 
 ![fin](https://raw.githubusercontent.com/chrisyk59/toys-models/main/Capture%20d%E2%80%99e%CC%81cran%202025-01-28%20a%CC%80%2017.18.19.png)
 
-![fin2](https://github.com/user-attachments/assets/665d9d88-edd0-4860-a6cc-02539d395dc2)
+![fin2](https://raw.githubusercontent.com/chrisyk59/toys-models/main/Capture%20d%E2%80%99e%CC%81cran%202025-01-28%20a%CC%80%2017.18.26.png)
 
-![log](https://github.com/user-attachments/assets/3820514f-9069-4335-948b-86d2f629d190)
+![log](https://raw.githubusercontent.com/chrisyk59/toys-models/main/Capture%20d%E2%80%99e%CC%81cran%202025-01-28%20a%CC%80%2017.18.34.png)
 
 ![hr](https://github.com/user-attachments/assets/f82900b5-f141-4a1b-a62a-4f6bcb687676)
 

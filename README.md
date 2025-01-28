@@ -37,7 +37,7 @@ Les **KPIs** ainsi obtenus ont été représentés sous la forme de **Dataviz** 
 
 ## 📊 Dashboards : 
 
-![sales]([https://raw.githubusercontent.com/user/repository/main/Capture_ecran_2025-01-28_17-18-12.png](https://raw.githubusercontent.com/chrisyk59/toys-models/refs/heads/main/Capture%20d’écran%202025-01-28%20à%2017.18.12.png))
+![sales](https://raw.githubusercontent.com/chrisyk59/toys-models/main/Capture%20d%E2%80%99e%CC%81cran%202025-01-28%20a%CC%80%2017.18.12.png)
 
 ![fin1](https://github.com/user-attachments/assets/7a11fa42-e6bd-4baf-a0e4-e1d4bac99da0)
 
